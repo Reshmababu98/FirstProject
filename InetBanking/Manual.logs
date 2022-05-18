@@ -1,0 +1,17 @@
+2022-03-14 20:23:06,601  INFO [main] BaseClass:17 - Application opened
+ 2022-03-14 20:23:09,560  INFO [main] BaseClass:22 - Username Entered
+ 2022-03-14 20:23:12,480  INFO [main] BaseClass:27 - password Entered
+ 2022-03-14 20:23:12,517  INFO [main] BaseClass:39 - Title not matched and condition failed
+ 2022-03-16 23:13:57,389  INFO [main] BaseClass:17 - Application opened
+ 2022-03-16 23:14:08,674  INFO [main] BaseClass:22 - Username Entered
+ 2022-03-16 23:14:16,199  INFO [main] BaseClass:27 - password Entered
+ 2022-03-16 23:14:16,365  INFO [main] BaseClass:39 - Title not matched and condition failed
+ 2022-03-16 23:15:43,672  INFO [main] BaseClass:17 - Application opened
+ 2022-03-16 23:15:47,060  INFO [main] BaseClass:22 - Username Entered
+ 2022-03-16 23:15:50,690  INFO [main] BaseClass:27 - password Entered
+ 2022-03-16 23:15:50,806  INFO [main] BaseClass:33 - Title matched and condition passed
+ 2022-03-19 20:03:17,384  INFO [main] BaseClass:17 - Application opened
+ 2022-03-19 20:03:20,626  INFO [main] BaseClass:22 - Username Entered
+ 2022-03-19 20:03:26,429  INFO [main] BaseClass:27 - password Entered
+ 2022-03-19 20:03:27,367  INFO [main] BaseClass:33 - Title matched and condition passed
+ 

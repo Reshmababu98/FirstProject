@@ -1,0 +1,20 @@
+21:42:43,241  INFO com.inetbanking.testcases.BaseClass<strong>{1}</strong>:17 - Application opened
+21:42:45,620  INFO com.inetbanking.testcases.BaseClass<strong>{1}</strong>:22 - Username Entered
+21:42:53,051  INFO com.inetbanking.testcases.BaseClass<strong>{1}</strong>:27 - password Entered
+21:42:53,152  INFO com.inetbanking.testcases.BaseClass<strong>{1}</strong>:39 - Title not matched and condition failed
+2022-03-14 20:23:06,601 [main] INFO com.inetbanking.testcases.BaseClass - Application opened
+2022-03-14 20:23:09,560 [main] INFO com.inetbanking.testcases.BaseClass - Username Entered
+2022-03-14 20:23:12,480 [main] INFO com.inetbanking.testcases.BaseClass - password Entered
+2022-03-14 20:23:12,517 [main] INFO com.inetbanking.testcases.BaseClass - Title not matched and condition failed
+2022-03-16 23:13:57,389 [main] INFO com.inetbanking.testcases.BaseClass - Application opened
+2022-03-16 23:14:08,674 [main] INFO com.inetbanking.testcases.BaseClass - Username Entered
+2022-03-16 23:14:16,199 [main] INFO com.inetbanking.testcases.BaseClass - password Entered
+2022-03-16 23:14:16,365 [main] INFO com.inetbanking.testcases.BaseClass - Title not matched and condition failed
+2022-03-16 23:15:43,672 [main] INFO com.inetbanking.testcases.BaseClass - Application opened
+2022-03-16 23:15:47,060 [main] INFO com.inetbanking.testcases.BaseClass - Username Entered
+2022-03-16 23:15:50,690 [main] INFO com.inetbanking.testcases.BaseClass - password Entered
+2022-03-16 23:15:50,806 [main] INFO com.inetbanking.testcases.BaseClass - Title matched and condition passed
+2022-03-19 20:03:17,384 [main] INFO com.inetbanking.testcases.BaseClass - Application opened
+2022-03-19 20:03:20,626 [main] INFO com.inetbanking.testcases.BaseClass - Username Entered
+2022-03-19 20:03:26,429 [main] INFO com.inetbanking.testcases.BaseClass - password Entered
+2022-03-19 20:03:27,367 [main] INFO com.inetbanking.testcases.BaseClass - Title matched and condition passed
