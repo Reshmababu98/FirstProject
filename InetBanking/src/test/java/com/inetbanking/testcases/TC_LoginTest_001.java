@@ -19,7 +19,7 @@ public class TC_LoginTest_001 extends BaseClass{
 		LoginPage l=new LoginPage(driver);
 		l.SetUsername(u_name);
 		
-		lo.info("Username Entered");
+		lo.info("Username ");
 	
 		l.SetPassword(u_pass);
 		l.ClickLgn();
